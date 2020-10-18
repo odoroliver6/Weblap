@@ -1,0 +1,29 @@
+body {
+    background-color: grey;
+    columns: #002200;
+    font-family: 'Times New Roman', Times;
+    margin: 30px auto;
+    width: 50%;
+}
+h1 {
+    text-align: center;
+}
+#felkover {
+    font-weight: bold;
+}
+#behuz {
+    margin-left: 20px;
+}
+div {
+    text-align: center;
+}
+ul li ul li {
+    list-style-type: none;
+    font-weight: normal;
+}
+ul li ul li:first-child {
+    padding-top: 15px;
+}
+ul li ul li:last-child {
+    padding-bottom: 15px;
+}
